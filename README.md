@@ -26,7 +26,11 @@ The code is written in java and uses the java socket api to establish network co
 HERE ARE THE MAIN FEATURES OF THE CODE:
 
 MULTIPLE CLIENT SUPPORT
+
 REAL-TIME MESSAGING
+
 MULTITHREADING
+
 JAVA SOCKET API
+
 JAVA MULTITHREADING API
