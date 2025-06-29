@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class Chatserver {
+public class ChatServer {
     private ServerSocket serverSocket;
     private List<ClientHandler> clients;
 
