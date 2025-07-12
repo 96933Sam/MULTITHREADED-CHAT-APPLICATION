@@ -11,7 +11,7 @@ Duration : 4 WEEKS
 
 Mentor : NEELA SANTHOSH
 
-TASK DESCRIPTION: I have use VS-CODE but checked my output in my windows terminal thid code is for a sample chat server application using java sockets and multithreading. It allows multiple user to connect to the server and send messages to each other in real-time.
+TASK EXPLANATION: I have use VS-CODE but checked my output in my windows terminal thid code is for a sample chat server application using java sockets and multithreading. It allows multiple user to connect to the server and send messages to each other in real-time.
 
 The chat server listens for incoming connections on a specified port number. When a connection is established, the server creates a new instance of the clienthandler class to handle communication with the connected client.
 
